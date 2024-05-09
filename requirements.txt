@@ -5,7 +5,6 @@ yfinance
 pandas-datareader
 prophet
 tensorflow==2.16.1
-python-doten
 numpy==1.26.4
 keras==3.3.3
 streamlit-option-menu==0.3.12
