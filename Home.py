@@ -3,5 +3,5 @@ from streamlit_option_menu import option_menu
 
 
 
-st.header('WELCOME')
+st.header('FLOWERNET: DEEP LEARNING FLOWER CLASSIFICATION')
 st.write("")
